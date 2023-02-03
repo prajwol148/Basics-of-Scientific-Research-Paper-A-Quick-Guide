@@ -1,5 +1,5 @@
 # Basics-of-Scientific-Research-Paper-A-Quick-Guide
-"Graduate Seminar" subject at USD, under the guidance of esteemed professor Dr. Santosh KC, focuses on crucial elements of writing scientific research papers, including types, structure &amp; format, and important factors for writing &amp; publishing successful papers emphasizing an expert approach.
+The Graduate Seminar course at the University of South Dakota, under the direction of Dr. Santosh KC who also chair the department of Computer Science at USD, focuses on exploring the essential components of writing and publishing scientific articles and research papers. The course covers the various types of scientific articles, the structure and format of research papers, and the critical considerations necessary for writing and publishing effective research. Thanks to the valuable insights and exceptional teachings provided by Dr. Santosh KC in this course. As a result of his guidance, I have developed the ability to approach research papers with greater efficiency and effectiveness. The emphasis on a comprehensive and professional approach to this important aspect of academic research is proving to be invaluable in my academic pursuits.
 <br>
 <br>
 <br>
