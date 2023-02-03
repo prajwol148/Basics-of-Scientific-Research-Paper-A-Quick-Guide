@@ -52,8 +52,9 @@ An editorial scientific research paper is a type of scientific paper that offers
 #### 9.	Pictorial essay: 
 This type of article is meant for teaching and is mainly focused on using good-quality pictures. The text is kept brief, with most of the information being in the descriptions of the pictures. 
 #### 10.	Others: 
-Any other type of paper that does not fit into the categories above falls under this category.
-The original article is one of the most common types of scientific works papers, and it is made up of a few important components. The following are the main components of a typical original research article:
+Any other type of paper that does not fit into the categories above falls under this category.<br>
+<br>
+##### The original article is one of the most common types of scientific works papers, and it is made up of a few important components. The following are the main components of a typical original research article:
 #### 1. Title: 
 The title is a very important part of the article. It should be concise, clear, and attention-grabbing to encourage people to read on.
 #### 2. Abstract: 
