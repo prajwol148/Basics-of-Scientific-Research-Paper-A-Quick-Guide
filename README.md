@@ -13,9 +13,7 @@ Additionally, by publishing their findings within the community, authors might e
 ### 	For personal benefit:
 Authors can prove to the community that they are professionals in the area they are working in by publishing research papers. Not only that, but authors can also get a platform to express their opinions and demonstrate their work as well. It demonstrates their expertise and credibility in the field. This can benefit the authors greatly. The author's prominence and credibility in the community and among other researchers will rise if their work is significant and of a high caliber. A person or the author of the paper may develop or flourish in their academic or professional careers through honors, grants, and other possibilities by establishing themselves as specialists in a particular field.
 Let's say the authors have a strong profile in the domain because of their research activities. The author's work may aid in or exhibit the author's abilities to investors, giving them more faith in the author if they require financial backing for a project in the future. It might help them get funding for forthcoming projects.
-To sum up, I feel these are the motivations for authors to publish their work. They can present their findings, projects, and methods that will help their respective community and contribute to the growth of their industry. Their work can also benefit them in the future.
- 
- 
+To sum up, I feel these are the motivations for authors to publish their work. They can present their findings, projects, and methods that will help their respective community and contribute to the growth of their industry. Their work can also benefit them in the future. 
 <br>
 <br>
 <br>
@@ -29,9 +27,7 @@ The study's methodology must be briefly discussed by the author in this section.
 In this section, the study's main findings should be briefly summarized together with any significant statistical data. Now, the research's findings may be quite lengthy and detailed. So, avoid attempting to incorporate each outcome in this section. Only draw attention to the key results that help the reader grasp your overall findings.
 ### D) Conclusions: 
 The authors provide comparisons and contrasts between the findings and their assumptions in this section. The main argument or conclusion supported by the research should be clear to the reader when they finish reading. 
- 
- 
- <br>
+<br>
 <br>
 <br>
 ## 3) How many different types of scientific works are there? Can you provide a format of one of their types?
@@ -56,8 +52,6 @@ The original article is one of the most common types of scientific works papers,
 #### 6.	Discussion: This section takes the results and explains what they mean. It talks about the study's conclusions, what the results imply, and what the limitations of the study were. It also gives ideas for future research in the field.
 #### 7. Conclusion and future work: The "Conclusion and Future Work" section summarizes the study's results and outlines future research plans. The conclusion summarizes key findings and limitations, and future work suggests future research directions and potential applications.
 #### 8. References: "References" lists sources used in a scientific paper, including academic works, books, websites, etc. to support the conclusions.
-
-
 <br>
 <br>
 <br>
