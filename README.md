@@ -57,14 +57,14 @@ The original article is one of the most common types of scientific works papers,
 <br>
 
 ## 4) How do you decide the quality of the paper? Enumerate important criteria.
-=>	Several essential elements must be considered when evaluating the quality of a scientific study. These include factors like the study's clear objective, how the research was conducted, the findings, how effectively the article is written if the concepts are fresh and unique, whether the techniques used were proper, the sources utilized in the study, and whether the study was conducted ethically. Checking these elements helps determine whether the paper is good and relevant to the field. 
-Here are a few important criteria that need to be checked to declare a scientific paper a good and well-written paper.
-a)	A study's findings should be straightforward to grasp, especially for individuals who are not specialists in the topic. The researchers should communicate their findings concisely and clearly.
-b)	A good scientific study should provide something new and beneficial to the field. This might be a unique discovery or a different approach to an old problem.
-c)	The study's findings should be important and supported by solid evidence. This improves the results' trustworthiness and validity.
-d)	An excellent scientific report should be prepared in a straightforward and easy-to-read style. This makes it easier for readers to comprehend the study and its findings.
-e)	The techniques and results of a scientific study should be accurate and repeatable by others. This contributes to the study's reliability and validity.
-f)	A scientific paper's procedures should be properly thought out and presented in sufficient depth so that others may comprehend how the study was carried out.
-g)	A good scientific article should have a clear and concise goal. This makes it easy for readers to comprehend the study's objective and the researchers' goals.
-h)	A good scientific paper should include a list of references to other similar research projects, books, and journals. The references should be relevant and up-to-date. This helps to demonstrate that the study is founded on sound principles and that the findings are supported by prior research.
+=>	Several essential elements must be considered when evaluating the quality of a scientific study. These include factors like the study's clear objective, how the research was conducted, the findings, how effectively the article is written if the concepts are fresh and unique, whether the techniques used were proper, the sources utilized in the study, and whether the study was conducted ethically. Checking these elements helps determine whether the paper is good and relevant to the field.<br> 
+Here are a few important criteria that need to be checked to declare a scientific paper a good and well-written paper.<br>
+a)	A study's findings should be straightforward to grasp, especially for individuals who are not specialists in the topic. The researchers should communicate their findings concisely and clearly.<br>
+b)	A good scientific study should provide something new and beneficial to the field. This might be a unique discovery or a different approach to an old problem.<br>
+c)	The study's findings should be important and supported by solid evidence. This improves the results' trustworthiness and validity.<br>
+d)	An excellent scientific report should be prepared in a straightforward and easy-to-read style. This makes it easier for readers to comprehend the study and its findings.<br>
+e)	The techniques and results of a scientific study should be accurate and repeatable by others. This contributes to the study's reliability and validity.<br>
+f)	A scientific paper's procedures should be properly thought out and presented in sufficient depth so that others may comprehend how the study was carried out.<br>
+g)	A good scientific article should have a clear and concise goal. This makes it easy for readers to comprehend the study's objective and the researchers' goals.<br>
+h)	A good scientific paper should include a list of references to other similar research projects, books, and journals. The references should be relevant and up-to-date. This helps to demonstrate that the study is founded on sound principles and that the findings are supported by prior research.<br>
 
