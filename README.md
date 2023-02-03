@@ -1,6 +1,7 @@
 # Basics-of-Scientific-Research-Paper-A-Quick-Guide
 "Graduate Seminar" subject at USD, under the guidance of esteemed professor Dr. Santosh KC, focuses on crucial elements of writing scientific research papers, including types, structure &amp; format, and important factors for writing &amp; publishing successful papers emphasizing an expert approach.
 
+
 ## 1)	Why would authors like to publish their work?
 =>	I believe there are two main reasons why authors would desire to publish their work, and this is based on what I have learned from my seniors or individuals who have already published their work thus far. These two elements are:
 
@@ -13,6 +14,8 @@ Authors can prove to the community that they are professionals in the area they 
 Let's say the authors have a strong profile in the domain because of their research activities. The author's work may aid in or exhibit the author's abilities to investors, giving them more faith in the author if they require financial backing for a project in the future. It might help them get funding for forthcoming projects.
 To sum up, I feel these are the motivations for authors to publish their work. They can present their findings, projects, and methods that will help their respective community and contribute to the growth of their industry. Their work can also benefit them in the future.
  
+ 
+ 
 ## 2) What should be the structure of the abstract?
 =>	An abstract for a research article provides a summary of the purpose, procedures, findings, and conclusions of the study. One must be careful while writing an abstract and always keep in mind to be very brief and avoid making it resemble an introduction. It should include an overview of the paper's main findings, objectives, research methodologies, and conclusions. A research paper's abstract must have four aspects. These components form the abstract's structure. They are mentioned below:
 ### A) Background/Intention: 
@@ -24,6 +27,8 @@ In this section, the study's main findings should be briefly summarized together
 ### D) Conclusions: 
 The authors provide comparisons and contrasts between the findings and their assumptions in this section. The main argument or conclusion supported by the research should be clear to the reader when they finish reading. 
  
+ 
+ 
 ## 3) How many different types of scientific works are there? Can you provide a format of one of their types?
 	Scientific papers are presented in a variety of types to reflect the complexity and diversity of the topic. Each type of scientific article serves a certain purpose and provides the reader with a particular collection of facts. Some of the notable forms of scientific articles are listed below:
 
@@ -46,6 +51,8 @@ The original article is one of the most common types of scientific works papers,
 #### 6.	Discussion: This section takes the results and explains what they mean. It talks about the study's conclusions, what the results imply, and what the limitations of the study were. It also gives ideas for future research in the field.
 #### 7. Conclusion and future work: The "Conclusion and Future Work" section summarizes the study's results and outlines future research plans. The conclusion summarizes key findings and limitations, and future work suggests future research directions and potential applications.
 #### 8. References: "References" lists sources used in a scientific paper, including academic works, books, websites, etc. to support the conclusions.
+
+
 
 ## 4) How do you decide the quality of the paper? Enumerate important criteria.
 =>	Several essential elements must be considered when evaluating the quality of a scientific study. These include factors like the study's clear objective, how the research was conducted, the findings, how effectively the article is written if the concepts are fresh and unique, whether the techniques used were proper, the sources utilized in the study, and whether the study was conducted ethically. Checking these elements helps determine whether the paper is good and relevant to the field. 
