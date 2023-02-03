@@ -3,7 +3,7 @@
 <br>
 <br>
 <br>
-## 1)	Why would authors like to publish their work?
+## 1)##	Why would authors like to publish their work?
 =>	I believe there are two main reasons why authors would desire to publish their work, and this is based on what I have learned from my seniors or individuals who have already published their work thus far. These two elements are:
 
 ### 	For societal/communal advantages:
