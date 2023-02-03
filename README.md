@@ -55,6 +55,7 @@ The original article is one of the most common types of scientific works papers,
 <br>
 <br>
 <br>
+
 ## 4) How do you decide the quality of the paper? Enumerate important criteria.
 =>	Several essential elements must be considered when evaluating the quality of a scientific study. These include factors like the study's clear objective, how the research was conducted, the findings, how effectively the article is written if the concepts are fresh and unique, whether the techniques used were proper, the sources utilized in the study, and whether the study was conducted ethically. Checking these elements helps determine whether the paper is good and relevant to the field. 
 Here are a few important criteria that need to be checked to declare a scientific paper a good and well-written paper.
