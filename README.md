@@ -1,7 +1,8 @@
 # Basics-of-Scientific-Research-Paper-A-Quick-Guide
 "Graduate Seminar" subject at USD, under the guidance of esteemed professor Dr. Santosh KC, focuses on crucial elements of writing scientific research papers, including types, structure &amp; format, and important factors for writing &amp; publishing successful papers emphasizing an expert approach.
-
-
+<br>
+<br>
+<br>
 ## 1)	Why would authors like to publish their work?
 =>	I believe there are two main reasons why authors would desire to publish their work, and this is based on what I have learned from my seniors or individuals who have already published their work thus far. These two elements are:
 
